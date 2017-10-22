@@ -1,4 +1,4 @@
-# Computer-Vision
+# Computer Vision
 There are some projects in computer vision class in National Tsing Hua University. 2017/09-2018/01
 
 ## Project
