@@ -1,5 +1,5 @@
 # Computer-Vision
-There are some project in computer vision class in National Tsing Hua University.
+There are some projects in computer vision class in National Tsing Hua University. 2017/09-2018/01
 
 ## Project
 1. Project0 : self-introduction
