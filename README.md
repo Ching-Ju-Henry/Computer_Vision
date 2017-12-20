@@ -16,3 +16,7 @@ There are some projects in computer vision class in National Tsing Hua Universit
 4. Project3 : Scene recognition with bag of words
       * Code: https://github.com/Ching-Ju-Henry/homework3
       * Report: https://github.com/Ching-Ju-Henry/homework3/blob/master/results/index.md
+      
+5. Project 4: Face detection with a sliding window
+      * Code: https://github.com/Ching-Ju-Henry/homework4
+      * Report: https://github.com/Ching-Ju-Henry/homework4/blob/master/results/index.md
