@@ -116,26 +116,26 @@
 <p>
 1. This is the Average precision and the Graph precision according to recall.  
 <p>
-<img src="/code/visualizations/average_precision.png">
+<img src="/Face detection with a sliding window/code/visualizations/average_precision.png">
 
 2. Here are some detection example
 </center>
 <table border=1>
 <tr>
 <td>
-<img src="/code/visualizations/detections_Argentina.jpg" width="24%"/>
-<img src="/code/visualizations/detections_Arsenal.jpg"  width="24%"/>
-<img src="/code/visualizations/detections_audrey2.jpg" width="24%"/>
-<img src="/code/visualizations/detections_clapton.jpg" width="24%"/>
+<img src="/Face detection with a sliding window/code/visualizations/detections_Argentina.jpg" width="24%"/>
+<img src="/Face detection with a sliding window/code/visualizations/detections_Arsenal.jpg"  width="24%"/>
+<img src="/Face detection with a sliding window/code/visualizations/detections_audrey2.jpg" width="24%"/>
+<img src="/Face detection with a sliding window/code/visualizations/detections_clapton.jpg" width="24%"/>
 </td>
 </tr>
 
 <tr>
 <td>
-<img src="/code/visualizations/detections_cnn2221.jpg" width="24%"/>
-<img src="/code/visualizations/detections_original1.jpg"  width="24%"/>
-<img src="/code/visualizations/detections_kaari-stef.jpg" width="24%"/>
-<img src="/code/visualizations/detections_music-groups-double.jpg" width="24%"/>
+<img src="/Face detection with a sliding window/code/visualizations/detections_cnn2221.jpg" width="24%"/>
+<img src="/Face detection with a sliding window/code/visualizations/detections_original1.jpg"  width="24%"/>
+<img src="/Face detection with a sliding window/code/visualizations/detections_kaari-stef.jpg" width="24%"/>
+<img src="/Face detection with a sliding window/code/visualizations/detections_music-groups-double.jpg" width="24%"/>
 </td>
 </tr>
 
